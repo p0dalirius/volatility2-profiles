@@ -1,7 +1,7 @@
 {
     "distribution": {
         "name": "Debian",
-        "version": "11.1.0"
+        "version": "11.2.0"
     },
     "kernel": {
         "version": "#1 SMP Debian 5.10.70-1 (2021-09-30)",
