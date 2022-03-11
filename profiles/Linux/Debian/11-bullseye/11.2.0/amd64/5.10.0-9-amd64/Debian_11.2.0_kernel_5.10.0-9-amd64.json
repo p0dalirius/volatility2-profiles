@@ -6,6 +6,6 @@
     "kernel": {
         "version": "#1 SMP Debian 5.10.70-1 (2021-09-30)",
         "release": "5.10.0-9-amd64",
-        "architecture": "x86_64"
+        "architecture": "amd64"
     }
 }
