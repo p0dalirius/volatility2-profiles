@@ -27,8 +27,8 @@ This repository contains **48** profiles!
 
 Each of these profiles is packaged as a zip file. You can enable them individually with your Volatility installation by copying:
 
- - Linux profiles to `volatility/plugins/overlays/linux`
- - Mac profiles to `volatility/plugins/overlays/mac`
+ - Linux profiles in `volatility/plugins/overlays/linux/`
+ - Mac profiles in `volatility/plugins/overlays/mac/`
 
 :warning: Only enable the profiles you plan to use. If you copy all zip files into the aforementioned directories, Volatility will be extremely slow to load.
 
