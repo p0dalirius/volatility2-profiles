@@ -1,0 +1,11 @@
+{
+    "distribution": {
+        "version": "9.5.0",
+        "name": "Debian"
+    },
+    "kernel": {
+        "architecture": "amd64",
+        "version": "#1 SMP Debian 4.19.208-1~deb9u1 (2021-10-10)",
+        "release": "4.19.0-0.bpo.18-amd64"
+    }
+}
