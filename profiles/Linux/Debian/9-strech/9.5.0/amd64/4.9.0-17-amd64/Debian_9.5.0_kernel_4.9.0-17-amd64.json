@@ -1,0 +1,11 @@
+{
+    "kernel": {
+        "version": "#1 SMP Debian 4.9.290-1 (2021-12-12)",
+        "release": "4.9.0-17-amd64",
+        "architecture": "amd64"
+    },
+    "distribution": {
+        "version": "9.5.0",
+        "name": "Debian"
+    }
+}
