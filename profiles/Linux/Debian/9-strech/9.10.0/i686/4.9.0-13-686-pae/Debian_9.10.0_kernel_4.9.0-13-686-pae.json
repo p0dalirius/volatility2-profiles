@@ -1,0 +1,11 @@
+{
+    "distribution": {
+        "version": "9.10.0",
+        "name": "Debian"
+    },
+    "kernel": {
+        "version": "#1 SMP Debian 4.9.228-1 (2020-07-05)",
+        "release": "4.9.0-13-686-pae",
+        "architecture": "i686"
+    }
+}
