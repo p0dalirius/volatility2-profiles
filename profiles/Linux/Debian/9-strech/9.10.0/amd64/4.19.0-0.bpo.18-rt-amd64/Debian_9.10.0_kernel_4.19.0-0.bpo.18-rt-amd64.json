@@ -1,0 +1,11 @@
+{
+    "distribution": {
+        "name": "Debian",
+        "version": "9.10.0"
+    },
+    "kernel": {
+        "version": "#1 SMP PREEMPT RT Debian 4.19.208-1~deb9u1 (2021-10-10)",
+        "architecture": "amd64",
+        "release": "4.19.0-0.bpo.18-rt-amd64"
+    }
+}
