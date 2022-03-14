@@ -1,0 +1,11 @@
+{
+    "kernel": {
+        "architecture": "i686",
+        "version": "#1 SMP Debian 4.19.232-1~deb9u1 (2022-03-08)",
+        "release": "4.19.0-0.bpo.19-686-pae"
+    },
+    "distribution": {
+        "name": "Debian",
+        "version": "9.8.0"
+    }
+}
