@@ -1,4 +1,4 @@
-# volatility profiles
+![](./.github/banner.png)
 
 <p align="center">
   A lot of memory profiles for forensic analysis using <a href="https://github.com/volatility-foundation/volatility">volatility</a>.
