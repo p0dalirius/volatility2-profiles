@@ -10,6 +10,8 @@
 
 This repository contains **400** profiles!
 
+Despite tens of hours of work, all of this profiles are generated and shared for free. So if you found it useful, please ⭐ this repo or support my work on [patreon](https://www.patreon.com/podalirius).
+
 ## Linux
 
 ### Debian
