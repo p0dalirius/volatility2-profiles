@@ -3,12 +3,12 @@
 <p align="center">
   A lot of memory profiles for forensic analysis using <a href="https://github.com/volatility-foundation/volatility">volatility</a>.
   <br>
-  <img alt="Profiles" src="https://img.shields.io/badge/profiles-400-brightgreen">
+  <img alt="Profiles" src="https://img.shields.io/badge/profiles-460-brightgreen">
   <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
   <br>
 </p>
 
-This repository contains **400** profiles!
+This repository contains **460** profiles!
 
 Despite tens of hours of work, all of this profiles are generated and shared for free. So if you found it useful, please ⭐ this repo or support my work on [patreon](https://www.patreon.com/podalirius).
 
