@@ -1,0 +1,11 @@
+{
+    "distribution": {
+        "name": "Debian",
+        "version": "9.12.0"
+    },
+    "kernel": {
+        "release": "4.9.0-18-rt-686-pae",
+        "version": "#1 SMP PREEMPT RT Debian 4.9.303-1 (2022-03-07)",
+        "architecture": "i686"
+    }
+}
