@@ -34,4 +34,4 @@ Each of these profiles is packaged as a zip file. You can enable them individual
 
 ## Issues
 
-:warning: These profiles are automatically generated and may not be fully tested (or tested at all). Use at your own risk. If you encounter problems, please report them through the issue tracker: https://github.com/p0dalirius/volatility-profiles/issues.
+:warning: These profiles are automatically generated and may not be fully tested (or tested at all). Use at your own risk. If you encounter problems, please report them through the issue tracker: https://github.com/p0dalirius/volatility2-profiles/issues.
