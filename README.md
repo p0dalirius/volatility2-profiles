@@ -10,6 +10,8 @@
 
 Despite tens of hours of work, all of these **460** profiles are generated and shared for free. So if you find this project useful, please ⭐ this repo or support my work on [patreon](https://www.patreon.com/podalirius).
 
+If you're using volatility 3, you should check out [volatility3-symbols](https://github.com/p0dalirius/volatility3-symbols).
+
 ## Linux
 
 ### Debian
